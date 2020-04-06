@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clase3ListadoAdapters</string>
+    <string name="presioname">Presioname!</string>
+    <string name="mensage_click">Hola, me han presionado</string>
+</resources>
