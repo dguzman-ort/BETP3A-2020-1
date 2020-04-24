@@ -1,0 +1,2 @@
+rootProject.name='API_Rest_Call'
+include ':app'
